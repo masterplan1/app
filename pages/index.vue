@@ -5,7 +5,7 @@
     </nav>
     <main>
       <div>
-        <h1>Love3</h1>
+        <h1>Love4</h1>
         <img 
           src="/image5.jpg" 
           alt="Val image digit"
