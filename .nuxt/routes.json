@@ -3,18 +3,21 @@
     "name": "quotes",
     "path": "/quotes",
     "component": "C:\\\\OSPanel\\\\domains\\\\nuxt\\\\nuxt_kaizen\\\\app\\\\pages\\\\quotes\\\\index.vue",
-    "chunkName": "pages/quotes/index"
+    "chunkName": "pages/quotes/index",
+    "_name": "_0a40fc7a"
   },
   {
     "name": "quotes-id",
     "path": "/quotes/:id",
     "component": "C:\\\\OSPanel\\\\domains\\\\nuxt\\\\nuxt_kaizen\\\\app\\\\pages\\\\quotes\\\\_id\\\\index.vue",
-    "chunkName": "pages/quotes/_id/index"
+    "chunkName": "pages/quotes/_id/index",
+    "_name": "_67426d37"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\OSPanel\\\\domains\\\\nuxt\\\\nuxt_kaizen\\\\app\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_4fb39f1a"
   }
 ]
