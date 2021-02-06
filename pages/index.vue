@@ -11,6 +11,12 @@
           alt="Val image digit"
           width="50%"
         >
+        <h1>Love5</h1>
+        <img 
+          src="/1asd.jpg" 
+          alt="shelf"
+          width="50%"
+        >
         <nuxt-link :to="`/quotes/${id}`" class="button">Get Random LoveQuote</nuxt-link>
       </div>
       <!-- <p>{{quotes[0]}}</p> -->
